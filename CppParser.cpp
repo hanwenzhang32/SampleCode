@@ -1,8 +1,9 @@
 /*
 This piece of code was written for a previous job application. In the email, they provided three .cpp files and asked us to write
 some code to parse the given files and print out a hierarchy tree. Overall, I am proud that I was able to complete this task
-within a few days. I think the part I am most proud of is that I created my own struct variable node, which I was able to use as a
-template when printing out the hierarchy tree. 
+within a few days. I think the part I am most proud of is that I created my own struct variable node(defined on line 34), which I 
+was able to use as a template when printing out the hierarchy tree. 
+
 
 Assumptions:
 1. There are only 3 files given as input
