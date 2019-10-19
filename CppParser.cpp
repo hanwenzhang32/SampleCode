@@ -30,13 +30,11 @@ string file1 = "StandardHelper.hpp";
 string file2 = "main.cpp";
 string file3 = "HelloWorldHelper.hpp";
 
-```
 struct node {
 	string functionName;
 	string fileName;
 	vector<node> calledFunctions;
 };
-```
 
 void findFunctions(string file, node& allFunctions);
 void scanFunction(string file, node& allFunctions);
